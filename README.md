@@ -1,25 +1,25 @@
 # 3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR
 
-**Aim:**
+## Aim:
 
 To study I-V characteristics of Gunn Diode and depth of modulation of modulation of PINdiode.
 
-**Apparatus Used:**
+## Apparatus Used:
 
 Gunn power supply, Gunn oscillator, PIN modulator, Isolator, Frequency Meter, Variableattenuator, Detector mount, Slotted section, VSWR meter.
 
-**Experimental Setup:**
+## Experimental Setup:
 
 <img width="880" height="180" alt="image" src="https://github.com/user-attachments/assets/c5e2a20b-5047-4518-886c-c020728660d5" />
 
-**Theory**
+## Theory
 
 The Gunn oscillator is base on negative differential conductivity effect in bulk semi- conductors. Gunn diode has two conduction bands separated by an energy gap (greater than thermal agitation energies). When an electron is moved to the satellite energy band, it will have negative differentialmobility. This produces the negative resistance required for the oscillations.
 In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this case the oscillationfrequency is determined by cavity dimension than by diode itself. Although Gunn oscillator can be amplitude-modulated with the bias voltage, separate PIN modulator through is used in this experiment. A square wave modulating signal is applied through the modulator on to the microwave carrier signal.
 
 <img width="445" height="304" alt="image" src="https://github.com/user-attachments/assets/42d87349-4aa0-4730-bb70-9b4897411b7d" />
 
-**Procedure:**
+## Procedure:
 
 1.	Set the components and equipments as shown in figure above.
 2.	Initially set the variable attenuator for maximum attenuation.
@@ -42,7 +42,7 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 14.	Move detector probe along the slotted line and note position of probe where pointer comes to extreme left position, which is first minimum. In order to know exact position of minimum note the positions of equal response points on either side of the minimum and then the midpoint of those positions will give position of minimum. The same way note nextminimum positions.
 15.	Repeat the above procedure for different settings of micrometer.
 
-**Depth of Modulation of PIN Diode:**
+## Depth of Modulation of PIN Diode:
 
 1.	Apply Gunn Bias Voltage slowly so that panel meter of Gunn power supply reads 8V.
 2.	Tune the PIN modulator bias voltage and frequency knob for maximum output on theoscilloscope.
@@ -53,19 +53,21 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 
 *Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.*
 
-**B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
+## B.Observation:
+<img width="1126" height="968" alt="image" src="https://github.com/user-attachments/assets/eb671a72-4d16-461e-a503-39280a683de1" />
 
-**C.Analysis of Results: (Write your own)**
+## C.Analysis of Results:
 
-(Include sample calculations/Display/plot/typical graph)
+<img width="993" height="1280" alt="image" src="https://github.com/user-attachments/assets/d2d92471-4b84-4925-8d8d-2face642ebdd" />
 
-**D.Conclusions: (Write  your Own)**
+## D.Conclusions:
+The experiment successfully demonstrates the negative resistance behavior of the Gunn diode, confirming its ability to generate microwave oscillations. The I–V curve clearly shows the region of negative differential resistance, essential for oscillation. The PIN diode modulator effectively varied the signal amplitude, and the depth of modulation was accurately measured. Thus, the Gunn diode oscillator and PIN modulator were found to work efficiently for microwave generation and amplitude modulation applications.
 
-**Precautions:**
+## Precautions:
 
 •	Check the connections before switching on the kit.
 •	Connections should be done properly.
 •	Observation should be taken properly.
 
-**Result:**
-
+## Result:
+The I–V characteristics of the Gunn diode were successfully plotted, showing a clear negative resistance region. The depth of modulation of the PIN diode was calculated from the difference in attenuation readings, confirming proper amplitude modulation of the microwave signal.
